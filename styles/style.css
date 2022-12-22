@@ -172,6 +172,7 @@ display: flex;
 align-items: center;
 letter-spacing: 0.04em;
 color: var(--active-color);
+cursor: pointer;
 }
 .hero-btn:focus,
 .hero-btn:hover{
@@ -302,6 +303,7 @@ align-items: center;
 text-align: center;
 letter-spacing: 0.04em;
 color: var(--active-color);
+cursor: pointer;
 }
 .btn-web{
 box-sizing: border-box;
@@ -324,6 +326,7 @@ align-items: center;
 text-align: center;
 letter-spacing: 0.04em;
 color: var(--primary-brand-color);
+
 }
 .btn-web:focus,
 .btn-web:hover{
@@ -339,6 +342,7 @@ align-items: center;
 text-align: center;
 letter-spacing: 0.04em;
 color: var(--active-color);
+cursor: pointer;
 }
 .btn-app {
 box-sizing: border-box;
@@ -360,6 +364,7 @@ align-items: center;
 text-align: center;
 letter-spacing: 0.04em;
 color: var(--primary-brand-color);
+
 }
 .btn-app:focus,
 .btn-app:hover{
@@ -375,6 +380,7 @@ align-items: center;
 text-align: center;
 letter-spacing: 0.04em;
 color: var(--active-color);
+cursor: pointer;
 }
 
 .btn-des {
@@ -413,6 +419,7 @@ align-items: center;
 text-align: center;
 letter-spacing: 0.04em;
 color: var(--active-color);
+cursor: pointer;
 }
 .btn-mar{
 box-sizing: border-box;
@@ -450,10 +457,8 @@ align-items: center;
 text-align: center;
 letter-spacing: 0.04em;
 color: var(--active-color);
+cursor: pointer;
 }
-
-
-
 
 .project-cards {
 }
